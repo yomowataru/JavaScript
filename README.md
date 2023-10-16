@@ -1,2 +1,2 @@
 # JavaScript
-DMMWEBCAMP　チャレンジフェーズ　JavaScriptを学ぼう
+JavaScriptの学習
